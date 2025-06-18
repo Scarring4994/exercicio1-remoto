@@ -1,1 +1,2 @@
 Novo Arquivo - teste4.txt
+Nova linha adicionada em teste4.txt
