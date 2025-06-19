@@ -12,9 +12,9 @@ Este projeto foi clonado do **GitHub** e um _exemplo de como editar_ o arquivo `
 
 ### Funcionalidades
 
-1-[x] Clonar o repositório
-2-[ ] Editar o arquivo README.md
-3-[ ] Enviar alterações para GitHub
+1. [x] Clonar o repositório
+2. [ ] Editar o arquivo README.md
+3. [ ] Enviar alterações para GitHub
 
 ### Links
 
